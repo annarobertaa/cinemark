@@ -61,3 +61,17 @@ body{
         font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
         text-align: center;
     }
+
+    td{
+
+        width: 25%;
+    }
+
+    th{
+
+        background-color: #BA0000;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        font-size: larger;
+        color: white;
+        height: 50px;
+    }
