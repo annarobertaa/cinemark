@@ -75,3 +75,9 @@ body{
         color: white;
         height: 50px;
     }
+
+    img{
+
+        padding-right: 20px;
+        padding-bottom: 20px;
+    }
